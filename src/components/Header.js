@@ -11,7 +11,7 @@ class Header extends Component {
             <MYOBLogo type='white'/>
           </div>
         </div>
-        <h2>Services Dashboard</h2>
+        <h2 className='Label'>Services Dashboard</h2>
       </header>
     )
   }
