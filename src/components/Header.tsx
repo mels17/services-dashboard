@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import {MYOBLogo} from "@myob/myob-widgets"
 import '../css/Header.css';
+import { MYOBLogo } from '@myob/myob-widgets'
 
 class Header extends Component {
   render() {
