@@ -5,10 +5,13 @@
   "dependencies": {
     "@myob/myob-styles": "^4.6.0",
     "@myob/myob-widgets": "^4.6.0",
+    "@types/axios": "^0.14.0",
     "@types/jest": "^24.0.11",
+    "@types/jsonapi-serializer": "^3.6.0",
     "@types/node": "^11.11.3",
     "@types/react": "^16.8.8",
     "@types/react-dom": "^16.8.2",
+    "jsonapi-serializer": "^3.6.4",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8",

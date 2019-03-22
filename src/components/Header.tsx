@@ -1,9 +1,10 @@
-import React, { Component } from 'react';
-import '../css/Header.css';
+import React, { Component } from 'react'
+import '../css/Header.css'
 import { MYOBLogo } from '@myob/myob-widgets'
 
 class Header extends Component {
   render() {
+
     return (
       <header className="App-header">
         <div className="App-logo">
